@@ -1,5 +1,4 @@
 1. This is a test to check the cloning and merging of branches.
-This was added in main branch through github.
 This is line number 3
 This is line number 4
 This is line number 5
